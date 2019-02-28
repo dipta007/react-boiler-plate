@@ -5,3 +5,4 @@
 * Reactstrap
 * React Router
 * Prop types
+* Enzyme
