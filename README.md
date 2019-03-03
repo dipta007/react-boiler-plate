@@ -9,6 +9,7 @@
 
 
 ## Todo
-[] Add redux and others related to it  
-[] Add testing tools  
-[] Add eslint & husky
+- [ ] Add redux and others related to it  
+- [ ] Add testing tools  
+- [ ] Add eslint & husky
+- [ ] Add next.js for server side rendering
