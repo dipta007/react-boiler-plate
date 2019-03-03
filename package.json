@@ -17,8 +17,8 @@
         "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject",
-        "lint": "eslint ./src/",
-        "pretty": "prettier --write --tab-width 4 \"src/**/*.js\"",
+        "lint": "eslint ./src/ --cache",
+        "pretty": "prettier --write --tab-width 2 \"src/**/*.js\"",
         "precommit": "lint-staged && npm run lint"
     },
     "lint-staged": {

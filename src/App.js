@@ -5,17 +5,17 @@ import './App.css';
 import test from './Component/test';
 
 class App extends Component {
-    render() {
-        return (
-            <>
-                <BrowserRouter>
-                    <Switch>
-                        <Route path="/emailsender" exact component={test} />
-                    </Switch>
-                </BrowserRouter>
-            </>
-        );
-    }
+  render() {
+    return (
+      <>
+        <BrowserRouter>
+          <Switch>
+            <Route path="/emailsender" exact component={test} />
+          </Switch>
+        </BrowserRouter>
+      </>
+    );
+  }
 }
 
 export default App;
