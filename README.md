@@ -6,6 +6,7 @@
 * React Router
 * Prop types
 * Enzyme
+* Prettier
 
 
 ## Todo
