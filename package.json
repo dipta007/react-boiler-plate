@@ -19,7 +19,7 @@
         "eject": "react-scripts eject",
         "lint": "eslint ./src/",
         "pretty": "prettier --write --tab-width 4 \"src/**/*.js\"",
-        "precommit": "lint-staged && npm run lint && npm test"
+        "precommit": "lint-staged && npm run lint"
     },
     "lint-staged": {
         "*.js": [

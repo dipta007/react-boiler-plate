@@ -8,10 +8,9 @@
 * Enzyme
 * Prettier
 * ESlint
-
+* Husky with Prettier
 
 ## Todo
 - [ ] Add redux and others related to it  
 - [ ] Add testing tools  
-- [ ] Add husky
 - [ ] Add next.js for server side rendering
